@@ -510,6 +510,7 @@ address {
   align-items: center;
   justify-content: center;
   margin-top: 8px;
+  margin-right: 80px;
 }
 .footer-social-madia-li {
   width: 40px;
@@ -678,7 +679,7 @@ address {
   margin-bottom: 16px;
 }
 .modal-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .modal-input {
   width: 100%;
@@ -697,7 +698,9 @@ address {
 .modal-input:focus + .modal-icon {
   fill: #4d5ae5;
 }
-
+.modal-fields {
+  margin-bottom: 16px;
+}
 .modal-label {
   display: block;
   font-size: 12px;
