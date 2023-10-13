@@ -557,7 +557,7 @@ address {
 }
 .footer-lower-form {
   display: flex;
-  grid-area: 24px;
+  gap: 24px;
 }
 .footer-input {
   width: 264px;
@@ -576,7 +576,7 @@ address {
 .footer-input::placeholder {
   color: #ffffff;
 }
-.footer-push {
+.footer-button {
   min-width: 165px;
   height: 40px;
   display: flex;
